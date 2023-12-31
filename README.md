@@ -1,6 +1,8 @@
-# weather_appp
+# weather_app
+![ezgif com-video-to-gif-converter](https://github.com/asifjahan1/Weather-App/assets/54774661/33ed17b1-00b0-4991-a606-c0ec43898557)
 
-A new Flutter project.
+
+Flutter Weather Application project.
 
 ## Getting Started
 
